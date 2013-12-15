@@ -1,5 +1,5 @@
 //
-//  CBMViewController.h
+//  CBMViewControllerLogIn.h
 //  BillManagement
 //
 //  Created by zhaozheng chu on 14/12/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CBMViewController : UIViewController
+@interface CBMViewControllerLogIn : UIViewController
 
 @end
